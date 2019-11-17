@@ -5,7 +5,7 @@ class Constants{
   static const PROFILE_MEDIUM = 'https://www.medium.com/@basavarajavyadav';
   // static const PROFILE_LINKEDIN = '';
   // static const PROFILE_FACEBOOK = '';
-  static const PROFILE_GITHUB = 'https://github.com/royaldevoper';
+  static const PROFILE_GITHUB = 'https://github.com/royaldevops';
   static const PROFILE_TWITTER = 'https://twitter.com/BasavarajaV10';
   // static const PROFILE_INSTAGRAM = '';
 }
